@@ -1,8 +1,7 @@
-# Getting Started with Create React App
-
+# wORDLE GAME MADE BY SANOJ SHRESTHA
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+##  WITH  REACT JS AND PURE CSS 
 
 In the project directory, you can run:
 

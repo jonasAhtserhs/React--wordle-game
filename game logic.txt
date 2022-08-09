@@ -1,0 +1,7 @@
+wordle game logic
+// for data we will store it to the  json file  and acesss it
+
+for a single time:
+
+each user as 5 guesses
+
